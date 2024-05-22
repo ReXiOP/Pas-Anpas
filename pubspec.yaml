@@ -40,7 +40,7 @@ dependencies:
   flutter_overlay_window: ^0.3.3
   permission_handler: ^10.2.0
   shared_preferences: ^2.1.1
-  system_alert_window: ^2.0.0
+
 
 dev_dependencies:
   flutter_test:
